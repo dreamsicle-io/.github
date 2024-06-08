@@ -1,3 +1,1 @@
-# Dreamsicle™
-
-A design and development agency stationed in Hollywood, FL.
+# Dreamsicle™ ― A design and development agency stationed in Hollywood, FL.
